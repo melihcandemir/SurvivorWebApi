@@ -11,7 +11,7 @@ Survivor Web API, Survivor yarışmasının kategorilerini ve yarışmacıların
 ## 🛠️ Kurulum
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/melihcandemir/Patika-Full-Stack.git
+   git clone https://github.com/melihcandemir/SurvivorWebApi.git
    ```
 
 2. Proje dizinine gidin:
